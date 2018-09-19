@@ -3,9 +3,13 @@
 Lógica
 
 1- Fazer a listagem do primeiro select
+
 2- Ação javascript "onchange" ao selecionar um item do primeiro select ele captura esse item.
+
 3- Requisição ajax, enviando esse item selecionado.
+
 4- Cria um JSON com as opções e retorna.
+
 5- Usa o JSON pra popular o SEGUNDO select.
 
 -connect.php : Conecção com banco de dados
